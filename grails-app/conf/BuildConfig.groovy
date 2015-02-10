@@ -36,7 +36,7 @@ grails.project.dependency.resolution = {
     }
     dependencies {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes eg.
-		compile 'com.theoryinpractise.frege:frege:3.22.324-g630677b'
+		compile 'com.theoryinpractise.frege:frege:3.22.367-g2737683'
     }
 
     plugins {
